@@ -61,5 +61,5 @@ DAX
 Data Cleaning & Transformation
 
 📸 Dashboard Preview
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/63b6df8a-d7bf-47da-8bcb-f9fb0344473a" />
 
-<img width="1311" height="733" alt="image" src="https://github.com/user-attachments/assets/1b1efc07-58e6-42fe-8c86-4de7bddea83f" />
